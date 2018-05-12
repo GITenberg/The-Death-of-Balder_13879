@@ -1,0 +1,39 @@
+_repo: The-Death-of-Balder_13879
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Borrow, George
+    alias: Borrow, George Henry
+    birthdate: 1803
+    deathdate: 1881
+    gutenberg_agent_id: '4383'
+    url: http://www.gutenberg.org/2009/agents/4383
+    wikipedia: http://en.wikipedia.org/wiki/George_Borrow
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ewald, Johannes
+    aliases:
+    - Evald, Johannes
+    - Ewald, J. (Johannes)
+    birthdate: 1743
+    deathdate: 1781
+    gutenberg_agent_id: '5266'
+    url: http://www.gutenberg.org/2009/agents/5266
+    wikipedia: http://en.wikipedia.org/wiki/Johannes_Ewald
+description: ''
+gutenberg_issued: '2004-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13879'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Danish drama -- Translations into English'
+- !lcc 'PT'
+title: The Death of Balder
+url: http://www.gutenberg.org/ebooks/13879
